@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\luisf\\OneDrive\\Desktop\\trNET\\SEMANA1\\proyectos\\practica2LFFG\\",
+  "WorkspaceRootPath": "C:\\Users\\luisf\\OneDrive\\Desktop\\trNET\\SEMANA1\\GENENE_repositorioGit\\GENENE\\practica2LFFG\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{51722F51-993F-4662-A625-88A3B976A418}|practica2LFFG\\practica2LFFG.csproj|c:\\users\\luisf\\onedrive\\desktop\\trnet\\semana1\\proyectos\\practica2lffg\\practica2lffg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{51722F51-993F-4662-A625-88A3B976A418}|practica2LFFG\\practica2LFFG.csproj|c:\\users\\luisf\\onedrive\\desktop\\trnet\\semana1\\genene_repositoriogit\\genene\\practica2lffg\\practica2lffg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{51722F51-993F-4662-A625-88A3B976A418}|practica2LFFG\\practica2LFFG.csproj|solutionrelative:practica2lffg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\luisf\\OneDrive\\Desktop\\trNET\\SEMANA1\\proyectos\\practica2LFFG\\practica2LFFG\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\luisf\\OneDrive\\Desktop\\trNET\\SEMANA1\\GENENE_repositorioGit\\GENENE\\practica2LFFG\\practica2LFFG\\Program.cs",
               "RelativeDocumentMoniker": "practica2LFFG\\Program.cs",
-              "ToolTip": "C:\\Users\\luisf\\OneDrive\\Desktop\\trNET\\SEMANA1\\proyectos\\practica2LFFG\\practica2LFFG\\Program.cs",
+              "ToolTip": "C:\\Users\\luisf\\OneDrive\\Desktop\\trNET\\SEMANA1\\GENENE_repositorioGit\\GENENE\\practica2LFFG\\practica2LFFG\\Program.cs",
               "RelativeToolTip": "practica2LFFG\\Program.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAgwC4AAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBYAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-07T19:49:02.129Z",
               "EditorCaption": ""
