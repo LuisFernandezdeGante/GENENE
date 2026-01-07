@@ -23,7 +23,7 @@ namespace practica2LFFG
             //Consulta SQL (BUSCA PRESTAMO)
             string query = "SELECT TOP 5 PrestamosID, LibrosID, SociosID " +
                             "FROM Prestamos " +
-                            "WHERE PrestamosID=@prestamo";
+                            "WHERE PrestamosID>@prestamo"; //AQUI HUBO UN CAMBIO
 
             using (SqlConnection connection = new SqlConnection(connectionString)) //PASO 1
             using (SqlCommand command = new SqlCommand(query, connection))          //PASO 2
