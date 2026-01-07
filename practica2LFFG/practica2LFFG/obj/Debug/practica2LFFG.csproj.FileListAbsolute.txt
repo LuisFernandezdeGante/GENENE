@@ -1,0 +1,8 @@
+C:\Users\luisf\OneDrive\Desktop\trNET\SEMANA1\proyectos\practica2LFFG\practica2LFFG\bin\Debug\practica2LFFG.exe.config
+C:\Users\luisf\OneDrive\Desktop\trNET\SEMANA1\proyectos\practica2LFFG\practica2LFFG\bin\Debug\practica2LFFG.exe
+C:\Users\luisf\OneDrive\Desktop\trNET\SEMANA1\proyectos\practica2LFFG\practica2LFFG\bin\Debug\practica2LFFG.pdb
+C:\Users\luisf\OneDrive\Desktop\trNET\SEMANA1\proyectos\practica2LFFG\practica2LFFG\obj\Debug\practica2LFFG.csproj.AssemblyReference.cache
+C:\Users\luisf\OneDrive\Desktop\trNET\SEMANA1\proyectos\practica2LFFG\practica2LFFG\obj\Debug\practica2LFFG.csproj.CoreCompileInputs.cache
+C:\Users\luisf\OneDrive\Desktop\trNET\SEMANA1\proyectos\practica2LFFG\practica2LFFG\obj\Debug\practica2LFFG.exe
+C:\Users\luisf\OneDrive\Desktop\trNET\SEMANA1\proyectos\practica2LFFG\practica2LFFG\obj\Debug\practica2LFFG.pdb
+C:\Users\luisf\OneDrive\Desktop\trNET\SEMANA1\proyectos\practica2LFFG\practica2LFFG\obj\Debug\practica2LFFG.exe.config
