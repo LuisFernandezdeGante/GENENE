@@ -154,9 +154,13 @@ ul {
   margin: 0; 
   padding: 0;
 }
-* { font-family: 'Open Sans', sans-serif; }
+* {
+    font-family: 'Roboto', sans-serif;
+}
 .container { max-width: 960px; }
-.tm-handwriting-font { font-family: 'Damion', cursive; }
+.tm-handwriting-font {
+    font-family: 'Roboto', cursive;
+}
 .tm-top-header {
   background: black;
   color: white;
@@ -235,9 +239,9 @@ ul {
 .green-text { color: #30A430; }
 .tm-welcome-header { font-size: 56px; }
 .tm-welcome-header-2 {
-  font-family: 'Times New Roman', serif;
-  font-size: 62px;
-  text-transform: uppercase;
+    font-family: 'Roboto', serif;
+    font-size: 62px;
+    text-transform: uppercase;
 }
 .tm-welcome-content {
   margin: 150px auto 350px;
@@ -560,23 +564,23 @@ ol li:before {
   text-decoration: none;
 }
 .tm-product {
-  margin-right: 0;
-  margin-left: auto;
-  max-width: 652px;
-  display: -webkit-box;
-  display: -webkit-flex;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-pack: justify;
-  -webkit-justify-content: space-between;
-      -ms-flex-pack: justify;
-          justify-content: space-between;
-  -webkit-box-align: center;
-  -webkit-align-items: center;
-      -ms-flex-align: center;
-          align-items: center;
-  background-color: white;
-  padding: 20px;
+    margin-right: 0;
+    margin-left: auto;
+    max-width: 652px;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: justify;
+    -webkit-justify-content: space-between;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
+    background-color: #c79c60;
+    padding: 20px;
 }
 .tm-product-text { max-width: 325px; }
 .tm-product-price {

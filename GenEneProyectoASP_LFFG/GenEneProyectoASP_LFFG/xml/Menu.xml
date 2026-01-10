@@ -65,23 +65,7 @@
 				</Precio>
 				<Imagen>/IMG/7.jpg</Imagen>
 			</Platillo>
-			<!--<Platillo Nombre="Mole poblano" Orden="4" Especialidad="SI">
-				<Descripcion><![CDATA[ Mole poblano servido con arroz, pollo y frijoles]]></Descripcion>
-				<TextoEspecial><![CDATA[El mole poblano es una especialidad cultural de la ciudad de Puebla. Originalmente consistía principalmente en una salsa de una gran variedad de ingredientes vertida sobre piezas de guajolote, nombre que se le da en México al pavo doméstico, aunque actualmente es común su uso con pollo u otras carnes, siendo uno de los platillos más representativos de Puebla. Se pueden crear platillos rápidos como lo son: las enchiladas de mole poblano rellenas con pollo desmenuzado.]]></TextoEspecial>
-				<Precio>
-					$65
-				</Precio>
-				<Imagen>/IMG/8.jpg</Imagen>
-				<Imagen>/IMG/8a.jpg</Imagen>
-				<Ingredientes>
-					<Ingrediente Nombre="Ingredientes">chocolate, chiles,jitomate,almendras</Ingrediente>
-
-					<Ingrediente Imagen="/IMG/8b.jpg" Nombre="Chocolate"></Ingrediente>
-
-
-					<Ingrediente Imagen="/IMG/8c.jpg" Nombre="Ajonjolí"></Ingrediente>
-				</Ingredientes>
-			</Platillo>-->
+			
 		</Tipo>
 		<Tipo Nombre="Poesia">
 			
@@ -108,50 +92,14 @@
 				</Precio>
 				<Imagen>/IMG/11.png</Imagen>
 			</Platillo>
-			<!--<Platillo Nombre="Tacos de carne asada" Orden="4">
-				<Descripcion><![CDATA[ 5 Tacos de carne asada con cebolla y cilantro]]></Descripcion>
-				<Precio>
-					$25
-				</Precio>
-				<Imagen>/IMG/12.jpg</Imagen>
-			</Platillo>-->
+			
 		</Tipo>
-		<!--<Tipo Nombre="Periodicos">
-			<Platillo Nombre="El Financiero" Orden="1">
-				<Descripcion><![CDATA[ El Financiero es un diario mexicano de circulación nacional especializado en economía, finanzas, negocios y política que se imprime en Ciudad de México, propiedad de Grupo Multimedia Lauman. Su presidente y director general es Manuel Arroyo Rodríguez y el director editorial es Enrique Quintana. También cuenta con una versión en línea. ]]></Descripcion>
-				<Precio>
-					4.7 ✮
-				</Precio>
-				<Imagen>/IMG/13.jpg</Imagen>
-			</Platillo>
-			<Platillo Nombre="La jornada" Orden="2">
-				<Descripcion><![CDATA[ Coahuila]]></Descripcion>
-				<Precio>
-					4.0 ✮
-				</Precio>
-				<Imagen>/IMG/14.jpg</Imagen>
-			</Platillo>
-			<Platillo Nombre="El país" Orden="3">
-				<Descripcion><![CDATA[ Estado de México]]></Descripcion>
-				<Precio>
-					4.2 ✮
-				</Precio>
-				<Imagen>/IMG/15.jpg</Imagen>
-			</Platillo>
-			-->
-		<!--<Platillo Nombre="Agua Natural" Orden="4">
-				<Descripcion><![CDATA[ Agua natural]]></Descripcion>
-				<Precio>
-					4.7 ✮
-				</Precio>
-				<Imagen>/IMG/16.jpg</Imagen>
-			</Platillo>--><!--
-		</Tipo>-->
+		
 	</Platillos>
 	<Datos>
 		<NombreRestaurant>BIBLIOTECA             "UN MUNDO FELIZ"</NombreRestaurant>
 		<Descripcion>En biblioteca "un mundo feliz" podras disfrutar de diferentes generos aptos para todo el publico en general, asi como titulos clasicos y de renombre.</Descripcion>
-		<Direccion>M Flores 516, San Felipe Hueyotlipan, 72030 Heroica Puebla de Zaragoza, Pue., Mexico</Direccion>
+		<Direccion>Autop. México - Puebla 1920, San Jerónimo Caleras, 72100 Heroica Puebla de Zaragoza, Pue., Mexico</Direccion>
 		<Telefono>222-324-56-65</Telefono>
 		<Imagen>/img/fachada.jpeg</Imagen>
 		<Ubicacion></Ubicacion>

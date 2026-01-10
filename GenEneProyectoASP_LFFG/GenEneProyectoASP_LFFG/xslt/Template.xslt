@@ -124,19 +124,19 @@ http://www.templatemo.com/tm-466-cafe-house
 									<h3 class="tm-footer-div-title">MENU PRINCIPAL</h3>
 									<ul>
 										<li>
-											<a href="#">INICIO</a>
+											<a href="/Default.aspx?Id=0">INICIO</a>
 										</li>
 										<li>
-											<a href="#">ACERCA DE NOSOTROS</a>
+											<a href="/Default.aspx?Id=1">GENEROS</a>
 										</li>
 										<li>
-											<a href="#">DIRECTORIO</a>
+											<a href="/Default.aspx?Id=2">CONTACTO</a>
 										</li>
 										<li>
 											<!--<a href="#">B</a>
 										</li>
 										<li>-->
-											<a href="#">SERVICIOS</a>
+											<a href="/Default.aspx?Id=3">RESEÑAS</a>
 										</li>
 									</ul>
 								</nav>
@@ -149,21 +149,21 @@ http://www.templatemo.com/tm-466-cafe-house
 									<h3 class="tm-footer-div-title">REDES SOCIALES</h3>
 									<p>Siguenos en todas nuestras redes sociales.</p>
 									<div class="tm-social-icons-container">
-										<a href="#" class="tm-social-icon">
+										<a href="//www.facebook.com/" class="tm-social-icon">
 											<i class="fa fa-facebook"></i>
 										</a>
-										<a href="#" class="tm-social-icon">
+										<a href="//x.com/?lang=es" class="tm-social-icon">
 											<i class="fa fa-twitter"></i>
 										</a>
-										<a href="#" class="tm-social-icon">
+										<a href="//mx.linkedin.com/" class="tm-social-icon">
 											<i class="fa fa-linkedin"></i>
 										</a>
-										<a href="#" class="tm-social-icon">
+										<a href="//www.youtube.com/" class="tm-social-icon">
 											<i class="fa fa-youtube"></i>
 										</a>
-										<a href="#" class="tm-social-icon">
-											<i class="fa fa-behance"></i>
-										</a>
+										<!--<a href="//www.behance.net/" class="tm-social-icon">
+											<i class="fa fa-behance"></i>-->
+										<!--</a>-->
 									</div>
 								</div>
 							</div>
@@ -271,14 +271,7 @@ http://www.templatemo.com/tm-466-cafe-house
 				</section>
 
 				<section class="tm-section row">
-					<!--<div class="col-lg-12 tm-section-header-container">
-						<h2 class="tm-section-header gold-text tm-handwriting-font">
-							<img src="img/logo1.png" alt="Logo" class="tm-site-logo"/> Especialidad del dia
-						</h2>
-						<div class="tm-hr-container">
-							<hr class="tm-hr"/>
-						</div>
-					</div>-->
+					
 
 					<div class="col-lg-12 tm-special-container margin-top-60">
 						<div class="tm-special-container-left">
@@ -493,7 +486,7 @@ http://www.templatemo.com/tm-466-cafe-house
 	<xsl:template name="Contacto">
 		<!--//agregar api de google maps-->
 		<script src="//maps.googleapis.com/maps/api/js?key=AIzaSyCWeeateTaYGqsHhNcmoDfT7Us-vLDZVPs&amp;sensor=false&amp;language=en"></script>
-
+		
 		<script src="js/geolocalizacion.js" type="text/javascript"></script>
 		<section class="tm-welcome-section">
 			<div class="container tm-position-relative">

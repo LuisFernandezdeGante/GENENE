@@ -161,7 +161,7 @@ ul {
 }
 
 * {
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Helvetica', sans-serif;
 }
 
 .container {
@@ -169,7 +169,7 @@ ul {
 }
 
 .tm-handwriting-font {
-    font-family: 'Damion', cursive;
+    font-family: 'Roboto', cursive;
 }
 
 .tm-top-header {
@@ -288,7 +288,7 @@ ul {
 }
 
 .tm-welcome-header-2 {
-    font-family: 'Times New Roman', serif;
+    font-family: 'Roboto', serif;
     font-size: 62px;
     text-transform: uppercase;
 }
@@ -749,7 +749,7 @@ ol {
     -webkit-align-items: center;
     -ms-flex-align: center;
     align-items: center;
-    background-color: white;
+    background-color: #c79c60;
     padding: 20px;
 }
 

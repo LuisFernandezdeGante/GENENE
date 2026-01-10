@@ -37,7 +37,7 @@ function processGeocoder(result, status) {
         //si traigo información
         if (result[0]) {
             //despliego la dirección
-            var direccion = result[0].formatted_address; //"Blvd. San Felipe 224, Valle del Ángel, 72040 Puebla, Pue., Mexico"
+            var direccion =    result[0].formatted_address; //"Blvd. San Felipe 224, Valle del Ángel, 72040 Puebla, Pue., Mexico"
             $("#direccion").html(direccion);
         }
         else {
