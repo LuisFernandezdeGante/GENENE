@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\luisf\\OneDrive\\Desktop\\trNET\\SEMANA1\\R01P02Semana1LFFG\\GenEneProyectoASP_LFFG\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{61ADF07C-8710-3372-E86F-988F21FDEF65}|C:\\Users\\luisf\\OneDrive\\Desktop\\trNET\\SEMANA1\\R01P02Semana1LFFG\\GenEneProyectoASP_LFFG\\GenEneProyectoASP_LFFG|C:\\Users\\luisf\\OneDrive\\Desktop\\trNET\\SEMANA1\\R01P02Semana1LFFG\\GenEneProyectoASP_LFFG\\geneneproyectoasp_lffg\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61ADF07C-8710-3372-E86F-988F21FDEF65}|C:\\Users\\luisf\\OneDrive\\Desktop\\trNET\\SEMANA1\\R01P02Semana1LFFG\\GenEneProyectoASP_LFFG\\GenEneProyectoASP_LFFG|solutionrelative:geneneproyectoasp_lffg\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61ADF07C-8710-3372-E86F-988F21FDEF65}|C:\\Users\\luisf\\OneDrive\\Desktop\\trNET\\SEMANA1\\R01P02Semana1LFFG\\GenEneProyectoASP_LFFG\\GenEneProyectoASP_LFFG|c:\\users\\luisf\\onedrive\\desktop\\trnet\\semana1\\r01p02semana1lffg\\geneneproyectoasp_lffg\\geneneproyectoasp_lffg\\xml\\menu.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{61ADF07C-8710-3372-E86F-988F21FDEF65}|C:\\Users\\luisf\\OneDrive\\Desktop\\trNET\\SEMANA1\\R01P02Semana1LFFG\\GenEneProyectoASP_LFFG\\GenEneProyectoASP_LFFG|solutionrelative:geneneproyectoasp_lffg\\xml\\menu.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61ADF07C-8710-3372-E86F-988F21FDEF65}|C:\\Users\\luisf\\OneDrive\\Desktop\\trNET\\SEMANA1\\R01P02Semana1LFFG\\GenEneProyectoASP_LFFG\\GenEneProyectoASP_LFFG|C:\\Users\\luisf\\OneDrive\\Desktop\\trNET\\SEMANA1\\R01P02Semana1LFFG\\GenEneProyectoASP_LFFG\\geneneproyectoasp_lffg\\css\\template-style1.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{61ADF07C-8710-3372-E86F-988F21FDEF65}|C:\\Users\\luisf\\OneDrive\\Desktop\\trNET\\SEMANA1\\R01P02Semana1LFFG\\GenEneProyectoASP_LFFG\\GenEneProyectoASP_LFFG|solutionrelative:geneneproyectoasp_lffg\\css\\template-style1.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61ADF07C-8710-3372-E86F-988F21FDEF65}|C:\\Users\\luisf\\OneDrive\\Desktop\\trNET\\SEMANA1\\R01P02Semana1LFFG\\GenEneProyectoASP_LFFG\\GenEneProyectoASP_LFFG|C:\\Users\\luisf\\OneDrive\\Desktop\\trNET\\SEMANA1\\R01P02Semana1LFFG\\GenEneProyectoASP_LFFG\\geneneproyectoasp_lffg\\css\\templatemo-style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{61ADF07C-8710-3372-E86F-988F21FDEF65}|C:\\Users\\luisf\\OneDrive\\Desktop\\trNET\\SEMANA1\\R01P02Semana1LFFG\\GenEneProyectoASP_LFFG\\GenEneProyectoASP_LFFG|solutionrelative:geneneproyectoasp_lffg\\css\\templatemo-style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61ADF07C-8710-3372-E86F-988F21FDEF65}|C:\\Users\\luisf\\OneDrive\\Desktop\\trNET\\SEMANA1\\R01P02Semana1LFFG\\GenEneProyectoASP_LFFG\\GenEneProyectoASP_LFFG|C:\\Users\\luisf\\OneDrive\\Desktop\\trNET\\SEMANA1\\R01P02Semana1LFFG\\GenEneProyectoASP_LFFG\\geneneproyectoasp_lffg\\xslt\\template.xslt||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{61ADF07C-8710-3372-E86F-988F21FDEF65}|C:\\Users\\luisf\\OneDrive\\Desktop\\trNET\\SEMANA1\\R01P02Semana1LFFG\\GenEneProyectoASP_LFFG\\GenEneProyectoASP_LFFG|solutionrelative:geneneproyectoasp_lffg\\xslt\\template.xslt||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61ADF07C-8710-3372-E86F-988F21FDEF65}|C:\\Users\\luisf\\OneDrive\\Desktop\\trNET\\SEMANA1\\R01P02Semana1LFFG\\GenEneProyectoASP_LFFG\\GenEneProyectoASP_LFFG|C:\\Users\\luisf\\OneDrive\\Desktop\\trNET\\SEMANA1\\R01P02Semana1LFFG\\GenEneProyectoASP_LFFG\\geneneproyectoasp_lffg\\contacto.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{61ADF07C-8710-3372-E86F-988F21FDEF65}|C:\\Users\\luisf\\OneDrive\\Desktop\\trNET\\SEMANA1\\R01P02Semana1LFFG\\GenEneProyectoASP_LFFG\\GenEneProyectoASP_LFFG|solutionrelative:geneneproyectoasp_lffg\\contacto.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "contacto.aspx",
+              "DocumentMoniker": "C:\\Users\\luisf\\OneDrive\\Desktop\\trNET\\SEMANA1\\R01P02Semana1LFFG\\GenEneProyectoASP_LFFG\\GenEneProyectoASP_LFFG\\contacto.aspx",
+              "RelativeDocumentMoniker": "GenEneProyectoASP_LFFG\\contacto.aspx",
+              "ToolTip": "C:\\Users\\luisf\\OneDrive\\Desktop\\trNET\\SEMANA1\\R01P02Semana1LFFG\\GenEneProyectoASP_LFFG\\GenEneProyectoASP_LFFG\\contacto.aspx",
+              "RelativeToolTip": "GenEneProyectoASP_LFFG\\contacto.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-01-09T04:29:47.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Default.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\luisf\\OneDrive\\Desktop\\trNET\\SEMANA1\\R01P02Semana1LFFG\\GenEneProyectoASP_LFFG\\GenEneProyectoASP_LFFG\\Default.aspx.cs",
+              "RelativeDocumentMoniker": "GenEneProyectoASP_LFFG\\Default.aspx.cs",
+              "ToolTip": "C:\\Users\\luisf\\OneDrive\\Desktop\\trNET\\SEMANA1\\R01P02Semana1LFFG\\GenEneProyectoASP_LFFG\\GenEneProyectoASP_LFFG\\Default.aspx.cs",
+              "RelativeToolTip": "GenEneProyectoASP_LFFG\\Default.aspx.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAawBEAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T17:34:28.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "templatemo-style.css",
+              "DocumentMoniker": "C:\\Users\\luisf\\OneDrive\\Desktop\\trNET\\SEMANA1\\R01P02Semana1LFFG\\GenEneProyectoASP_LFFG\\GenEneProyectoASP_LFFG\\css\\templatemo-style.css",
+              "RelativeDocumentMoniker": "GenEneProyectoASP_LFFG\\css\\templatemo-style.css",
+              "ToolTip": "C:\\Users\\luisf\\OneDrive\\Desktop\\trNET\\SEMANA1\\R01P02Semana1LFFG\\GenEneProyectoASP_LFFG\\GenEneProyectoASP_LFFG\\css\\templatemo-style.css",
+              "RelativeToolTip": "GenEneProyectoASP_LFFG\\css\\templatemo-style.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-01-09T00:07:03.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Template.xslt",
+              "DocumentMoniker": "C:\\Users\\luisf\\OneDrive\\Desktop\\trNET\\SEMANA1\\R01P02Semana1LFFG\\GenEneProyectoASP_LFFG\\GenEneProyectoASP_LFFG\\xslt\\Template.xslt",
+              "RelativeDocumentMoniker": "GenEneProyectoASP_LFFG\\xslt\\Template.xslt",
+              "ToolTip": "C:\\Users\\luisf\\OneDrive\\Desktop\\trNET\\SEMANA1\\R01P02Semana1LFFG\\GenEneProyectoASP_LFFG\\GenEneProyectoASP_LFFG\\xslt\\Template.xslt",
+              "RelativeToolTip": "GenEneProyectoASP_LFFG\\xslt\\Template.xslt",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAiwKoAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003586|",
+              "WhenOpened": "2026-01-07T17:24:11.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "template-style1.css",
+              "DocumentMoniker": "C:\\Users\\luisf\\OneDrive\\Desktop\\trNET\\SEMANA1\\R01P02Semana1LFFG\\GenEneProyectoASP_LFFG\\GenEneProyectoASP_LFFG\\css\\template-style1.css",
+              "RelativeDocumentMoniker": "GenEneProyectoASP_LFFG\\css\\template-style1.css",
+              "ToolTip": "C:\\Users\\luisf\\OneDrive\\Desktop\\trNET\\SEMANA1\\R01P02Semana1LFFG\\GenEneProyectoASP_LFFG\\GenEneProyectoASP_LFFG\\css\\template-style1.css",
+              "RelativeToolTip": "GenEneProyectoASP_LFFG\\css\\template-style1.css",
+              "ViewState": "AgIAAL0AAAAAAAAAAAAvwI8AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-01-09T02:45:50.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Menu.xml",
+              "DocumentMoniker": "C:\\Users\\luisf\\OneDrive\\Desktop\\trNET\\SEMANA1\\R01P02Semana1LFFG\\GenEneProyectoASP_LFFG\\GenEneProyectoASP_LFFG\\xml\\Menu.xml",
+              "RelativeDocumentMoniker": "GenEneProyectoASP_LFFG\\xml\\Menu.xml",
+              "ToolTip": "C:\\Users\\luisf\\OneDrive\\Desktop\\trNET\\SEMANA1\\R01P02Semana1LFFG\\GenEneProyectoASP_LFFG\\GenEneProyectoASP_LFFG\\xml\\Menu.xml",
+              "RelativeToolTip": "GenEneProyectoASP_LFFG\\xml\\Menu.xml",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAvwJkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2026-01-07T17:20:34.051Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
