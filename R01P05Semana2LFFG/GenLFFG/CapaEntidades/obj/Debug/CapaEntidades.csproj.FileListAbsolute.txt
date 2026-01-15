@@ -1,0 +1,6 @@
+C:\Users\luisf\OneDrive\Desktop\trNET\SEMANA2\R01P05Semana2LFFG\GenLFFG\CapaEntidades\bin\Debug\CapaEntidades.dll
+C:\Users\luisf\OneDrive\Desktop\trNET\SEMANA2\R01P05Semana2LFFG\GenLFFG\CapaEntidades\bin\Debug\CapaEntidades.pdb
+C:\Users\luisf\OneDrive\Desktop\trNET\SEMANA2\R01P05Semana2LFFG\GenLFFG\CapaEntidades\obj\Debug\CapaEntidades.csproj.AssemblyReference.cache
+C:\Users\luisf\OneDrive\Desktop\trNET\SEMANA2\R01P05Semana2LFFG\GenLFFG\CapaEntidades\obj\Debug\CapaEntidades.csproj.CoreCompileInputs.cache
+C:\Users\luisf\OneDrive\Desktop\trNET\SEMANA2\R01P05Semana2LFFG\GenLFFG\CapaEntidades\obj\Debug\CapaEntidades.dll
+C:\Users\luisf\OneDrive\Desktop\trNET\SEMANA2\R01P05Semana2LFFG\GenLFFG\CapaEntidades\obj\Debug\CapaEntidades.pdb

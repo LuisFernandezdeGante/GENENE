@@ -1,0 +1,205 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\luisf\\OneDrive\\Desktop\\trNET\\SEMANA2\\R01P05Semana2LFFG\\GenLFFG\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CC99FABF-3A7E-4274-86CA-9AE48B0CE094}|CapaPresentacion\\CapaPresentacion.csproj|c:\\users\\luisf\\onedrive\\desktop\\trnet\\semana2\\r01p05semana2lffg\\genlffg\\capapresentacion\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CC99FABF-3A7E-4274-86CA-9AE48B0CE094}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45F83580-C2C4-4ABA-ACA2-FAFA91B72B7A}|CamionesWeb\\CamionesWeb.csproj|C:\\Users\\luisf\\OneDrive\\Desktop\\trNET\\SEMANA2\\R01P05Semana2LFFG\\GenLFFG\\camionesweb\\choferes.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45F83580-C2C4-4ABA-ACA2-FAFA91B72B7A}|CamionesWeb\\CamionesWeb.csproj|solutionrelative:camionesweb\\choferes.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45F83580-C2C4-4ABA-ACA2-FAFA91B72B7A}|CamionesWeb\\CamionesWeb.csproj|C:\\Users\\luisf\\OneDrive\\Desktop\\trNET\\SEMANA2\\R01P05Semana2LFFG\\GenLFFG\\camionesweb\\camiones.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45F83580-C2C4-4ABA-ACA2-FAFA91B72B7A}|CamionesWeb\\CamionesWeb.csproj|solutionrelative:camionesweb\\camiones.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10C415B4-D47E-4B37-BF28-EE968012212B}|CapasDatos\\CapaDatos.csproj|c:\\users\\luisf\\onedrive\\desktop\\trnet\\semana2\\r01p05semana2lffg\\genlffg\\capasdatos\\d_chofer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10C415B4-D47E-4B37-BF28-EE968012212B}|CapasDatos\\CapaDatos.csproj|solutionrelative:capasdatos\\d_chofer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45F83580-C2C4-4ABA-ACA2-FAFA91B72B7A}|CamionesWeb\\CamionesWeb.csproj|c:\\users\\luisf\\onedrive\\desktop\\trnet\\semana2\\r01p05semana2lffg\\genlffg\\camionesweb\\choferes.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{45F83580-C2C4-4ABA-ACA2-FAFA91B72B7A}|CamionesWeb\\CamionesWeb.csproj|solutionrelative:camionesweb\\choferes.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10C415B4-D47E-4B37-BF28-EE968012212B}|CapasDatos\\CapaDatos.csproj|c:\\users\\luisf\\onedrive\\desktop\\trnet\\semana2\\r01p05semana2lffg\\genlffg\\capasdatos\\d_camion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10C415B4-D47E-4B37-BF28-EE968012212B}|CapasDatos\\CapaDatos.csproj|solutionrelative:capasdatos\\d_camion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1311F33-75B5-4677-B63D-452749C7CF79}|CapaEntidades\\CapaEntidades.csproj|c:\\users\\luisf\\onedrive\\desktop\\trnet\\semana2\\r01p05semana2lffg\\genlffg\\capaentidades\\e_chofer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1311F33-75B5-4677-B63D-452749C7CF79}|CapaEntidades\\CapaEntidades.csproj|solutionrelative:capaentidades\\e_chofer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45F83580-C2C4-4ABA-ACA2-FAFA91B72B7A}|CamionesWeb\\CamionesWeb.csproj|C:\\Users\\luisf\\OneDrive\\Desktop\\trNET\\SEMANA2\\R01P05Semana2LFFG\\GenLFFG\\camionesweb\\camiones.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{45F83580-C2C4-4ABA-ACA2-FAFA91B72B7A}|CamionesWeb\\CamionesWeb.csproj|solutionrelative:camionesweb\\camiones.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45F83580-C2C4-4ABA-ACA2-FAFA91B72B7A}|CamionesWeb\\CamionesWeb.csproj|C:\\Users\\luisf\\OneDrive\\Desktop\\trNET\\SEMANA2\\R01P05Semana2LFFG\\GenLFFG\\camionesweb\\rutas.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{45F83580-C2C4-4ABA-ACA2-FAFA91B72B7A}|CamionesWeb\\CamionesWeb.csproj|solutionrelative:camionesweb\\rutas.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45F83580-C2C4-4ABA-ACA2-FAFA91B72B7A}|CamionesWeb\\CamionesWeb.csproj|c:\\users\\luisf\\onedrive\\desktop\\trnet\\semana2\\r01p05semana2lffg\\genlffg\\camionesweb\\rutas.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45F83580-C2C4-4ABA-ACA2-FAFA91B72B7A}|CamionesWeb\\CamionesWeb.csproj|solutionrelative:camionesweb\\rutas.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D3E8190-ED2B-4FD1-B522-D6C25C308D9C}|CapaNegocios\\CapaNegocios.csproj|C:\\Users\\luisf\\OneDrive\\Desktop\\trNET\\SEMANA2\\R01P05Semana2LFFG\\GenLFFG\\capanegocios\\n_camion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D3E8190-ED2B-4FD1-B522-D6C25C308D9C}|CapaNegocios\\CapaNegocios.csproj|solutionrelative:capanegocios\\n_camion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmPrincipal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\luisf\\OneDrive\\Desktop\\trNET\\SEMANA2\\R01P05Semana2LFFG\\GenLFFG\\CapaPresentacion\\FrmPrincipal.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\FrmPrincipal.cs",
+              "ToolTip": "C:\\Users\\luisf\\OneDrive\\Desktop\\trNET\\SEMANA2\\R01P05Semana2LFFG\\GenLFFG\\CapaPresentacion\\FrmPrincipal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\FrmPrincipal.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T15:44:42.832Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "D_Camion.cs",
+              "DocumentMoniker": "C:\\Users\\luisf\\OneDrive\\Desktop\\trNET\\SEMANA2\\R01P05Semana2LFFG\\GenLFFG\\CapasDatos\\D_Camion.cs",
+              "RelativeDocumentMoniker": "CapasDatos\\D_Camion.cs",
+              "ToolTip": "C:\\Users\\luisf\\OneDrive\\Desktop\\trNET\\SEMANA2\\R01P05Semana2LFFG\\GenLFFG\\CapasDatos\\D_Camion.cs",
+              "RelativeToolTip": "CapasDatos\\D_Camion.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAowEUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T15:20:31.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "D_Chofer.cs",
+              "DocumentMoniker": "C:\\Users\\luisf\\OneDrive\\Desktop\\trNET\\SEMANA2\\R01P05Semana2LFFG\\GenLFFG\\CapasDatos\\D_Chofer.cs",
+              "RelativeDocumentMoniker": "CapasDatos\\D_Chofer.cs",
+              "ToolTip": "C:\\Users\\luisf\\OneDrive\\Desktop\\trNET\\SEMANA2\\R01P05Semana2LFFG\\GenLFFG\\CapasDatos\\D_Chofer.cs",
+              "RelativeToolTip": "CapasDatos\\D_Chofer.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAgwDIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T15:19:15.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "E_Chofer.cs",
+              "DocumentMoniker": "C:\\Users\\luisf\\OneDrive\\Desktop\\trNET\\SEMANA2\\R01P05Semana2LFFG\\GenLFFG\\CapaEntidades\\E_Chofer.cs",
+              "RelativeDocumentMoniker": "CapaEntidades\\E_Chofer.cs",
+              "ToolTip": "C:\\Users\\luisf\\OneDrive\\Desktop\\trNET\\SEMANA2\\R01P05Semana2LFFG\\GenLFFG\\CapaEntidades\\E_Chofer.cs",
+              "RelativeToolTip": "CapaEntidades\\E_Chofer.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wBMAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T15:18:22.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Choferes.aspx",
+              "DocumentMoniker": "C:\\Users\\luisf\\OneDrive\\Desktop\\trNET\\SEMANA2\\R01P05Semana2LFFG\\GenLFFG\\CamionesWeb\\Choferes.aspx",
+              "RelativeDocumentMoniker": "CamionesWeb\\Choferes.aspx",
+              "ToolTip": "C:\\Users\\luisf\\OneDrive\\Desktop\\trNET\\SEMANA2\\R01P05Semana2LFFG\\GenLFFG\\CamionesWeb\\Choferes.aspx",
+              "RelativeToolTip": "CamionesWeb\\Choferes.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-01-15T14:52:56.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Rutas.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\luisf\\OneDrive\\Desktop\\trNET\\SEMANA2\\R01P05Semana2LFFG\\GenLFFG\\CamionesWeb\\Rutas.aspx.cs",
+              "RelativeDocumentMoniker": "CamionesWeb\\Rutas.aspx.cs",
+              "ToolTip": "C:\\Users\\luisf\\OneDrive\\Desktop\\trNET\\SEMANA2\\R01P05Semana2LFFG\\GenLFFG\\CamionesWeb\\Rutas.aspx.cs",
+              "RelativeToolTip": "CamionesWeb\\Rutas.aspx.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowDUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T14:48:02.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Rutas.aspx",
+              "DocumentMoniker": "C:\\Users\\luisf\\OneDrive\\Desktop\\trNET\\SEMANA2\\R01P05Semana2LFFG\\GenLFFG\\CamionesWeb\\Rutas.aspx",
+              "RelativeDocumentMoniker": "CamionesWeb\\Rutas.aspx",
+              "ToolTip": "C:\\Users\\luisf\\OneDrive\\Desktop\\trNET\\SEMANA2\\R01P05Semana2LFFG\\GenLFFG\\CamionesWeb\\Rutas.aspx",
+              "RelativeToolTip": "CamionesWeb\\Rutas.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-01-15T14:47:03.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Choferes.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\luisf\\OneDrive\\Desktop\\trNET\\SEMANA2\\R01P05Semana2LFFG\\GenLFFG\\CamionesWeb\\Choferes.aspx.cs",
+              "RelativeDocumentMoniker": "CamionesWeb\\Choferes.aspx.cs",
+              "ToolTip": "C:\\Users\\luisf\\OneDrive\\Desktop\\trNET\\SEMANA2\\R01P05Semana2LFFG\\GenLFFG\\CamionesWeb\\Choferes.aspx.cs",
+              "RelativeToolTip": "CamionesWeb\\Choferes.aspx.cs",
+              "ViewState": "AgIAAMAAAAAAAAAAAAAUwM4AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T05:49:35.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "N_Camion.cs",
+              "DocumentMoniker": "C:\\Users\\luisf\\OneDrive\\Desktop\\trNET\\SEMANA2\\R01P05Semana2LFFG\\GenLFFG\\CapaNegocios\\N_Camion.cs",
+              "RelativeDocumentMoniker": "CapaNegocios\\N_Camion.cs",
+              "ToolTip": "C:\\Users\\luisf\\OneDrive\\Desktop\\trNET\\SEMANA2\\R01P05Semana2LFFG\\GenLFFG\\CapaNegocios\\N_Camion.cs",
+              "RelativeToolTip": "CapaNegocios\\N_Camion.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T05:15:04.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Camiones.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\luisf\\OneDrive\\Desktop\\trNET\\SEMANA2\\R01P05Semana2LFFG\\GenLFFG\\CamionesWeb\\Camiones.aspx.cs",
+              "RelativeDocumentMoniker": "CamionesWeb\\Camiones.aspx.cs",
+              "ToolTip": "C:\\Users\\luisf\\OneDrive\\Desktop\\trNET\\SEMANA2\\R01P05Semana2LFFG\\GenLFFG\\CamionesWeb\\Camiones.aspx.cs",
+              "RelativeToolTip": "CamionesWeb\\Camiones.aspx.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAowDwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T04:17:51.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Camiones.aspx",
+              "DocumentMoniker": "C:\\Users\\luisf\\OneDrive\\Desktop\\trNET\\SEMANA2\\R01P05Semana2LFFG\\GenLFFG\\CamionesWeb\\Camiones.aspx",
+              "RelativeDocumentMoniker": "CamionesWeb\\Camiones.aspx",
+              "ToolTip": "C:\\Users\\luisf\\OneDrive\\Desktop\\trNET\\SEMANA2\\R01P05Semana2LFFG\\GenLFFG\\CamionesWeb\\Camiones.aspx",
+              "RelativeToolTip": "CamionesWeb\\Camiones.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-01-15T04:15:35.057Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
