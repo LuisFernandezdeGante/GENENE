@@ -1,0 +1,326 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\luisf\\OneDrive\\Desktop\\trNET\\SEMANA2\\R01P07Semana2LFFG\\Proyecto3Capas_Biblioteca\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4E1E1643-46CA-4D66-9363-7A55196D3541}|BibliotecaWeb\\BibliotecaWeb.csproj|c:\\users\\luisf\\onedrive\\desktop\\trnet\\semana2\\r01p07semana2lffg\\proyecto3capas_biblioteca\\bibliotecaweb\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{4E1E1643-46CA-4D66-9363-7A55196D3541}|BibliotecaWeb\\BibliotecaWeb.csproj|solutionrelative:bibliotecaweb\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E1E1643-46CA-4D66-9363-7A55196D3541}|BibliotecaWeb\\BibliotecaWeb.csproj|c:\\users\\luisf\\onedrive\\desktop\\trnet\\semana2\\r01p07semana2lffg\\proyecto3capas_biblioteca\\bibliotecaweb\\librosweb.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{4E1E1643-46CA-4D66-9363-7A55196D3541}|BibliotecaWeb\\BibliotecaWeb.csproj|solutionrelative:bibliotecaweb\\librosweb.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7C0875B-FFB1-47FB-87B5-F01728E00874}|CapaNegocios\\CapaNegocios.csproj|c:\\users\\luisf\\onedrive\\desktop\\trnet\\semana2\\r01p07semana2lffg\\proyecto3capas_biblioteca\\capanegocios\\n_devolucion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7C0875B-FFB1-47FB-87B5-F01728E00874}|CapaNegocios\\CapaNegocios.csproj|solutionrelative:capanegocios\\n_devolucion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7C0875B-FFB1-47FB-87B5-F01728E00874}|CapaNegocios\\CapaNegocios.csproj|c:\\users\\luisf\\onedrive\\desktop\\trnet\\semana2\\r01p07semana2lffg\\proyecto3capas_biblioteca\\capanegocios\\n_prestamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7C0875B-FFB1-47FB-87B5-F01728E00874}|CapaNegocios\\CapaNegocios.csproj|solutionrelative:capanegocios\\n_prestamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E089E5B-411D-44B8-BBC4-1F2D52480FA3}|CapaEntidades\\CapaEntidades.csproj|c:\\users\\luisf\\onedrive\\desktop\\trnet\\semana2\\r01p07semana2lffg\\proyecto3capas_biblioteca\\capaentidades\\e_prestamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E089E5B-411D-44B8-BBC4-1F2D52480FA3}|CapaEntidades\\CapaEntidades.csproj|solutionrelative:capaentidades\\e_prestamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5F5722D-D8EE-4B0E-972D-568411D93E77}|CapaDatos\\CapaDatos.csproj|c:\\users\\luisf\\onedrive\\desktop\\trnet\\semana2\\r01p07semana2lffg\\proyecto3capas_biblioteca\\capadatos\\d_prestamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5F5722D-D8EE-4B0E-972D-568411D93E77}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\d_prestamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7C0875B-FFB1-47FB-87B5-F01728E00874}|CapaNegocios\\CapaNegocios.csproj|c:\\users\\luisf\\onedrive\\desktop\\trnet\\semana2\\r01p07semana2lffg\\proyecto3capas_biblioteca\\capanegocios\\n_socio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7C0875B-FFB1-47FB-87B5-F01728E00874}|CapaNegocios\\CapaNegocios.csproj|solutionrelative:capanegocios\\n_socio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5F5722D-D8EE-4B0E-972D-568411D93E77}|CapaDatos\\CapaDatos.csproj|c:\\users\\luisf\\onedrive\\desktop\\trnet\\semana2\\r01p07semana2lffg\\proyecto3capas_biblioteca\\capadatos\\d_socio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5F5722D-D8EE-4B0E-972D-568411D93E77}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\d_socio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E089E5B-411D-44B8-BBC4-1F2D52480FA3}|CapaEntidades\\CapaEntidades.csproj|c:\\users\\luisf\\onedrive\\desktop\\trnet\\semana2\\r01p07semana2lffg\\proyecto3capas_biblioteca\\capaentidades\\e_socio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E089E5B-411D-44B8-BBC4-1F2D52480FA3}|CapaEntidades\\CapaEntidades.csproj|solutionrelative:capaentidades\\e_socio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7C0875B-FFB1-47FB-87B5-F01728E00874}|CapaNegocios\\CapaNegocios.csproj|c:\\users\\luisf\\onedrive\\desktop\\trnet\\semana2\\r01p07semana2lffg\\proyecto3capas_biblioteca\\capanegocios\\n_libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7C0875B-FFB1-47FB-87B5-F01728E00874}|CapaNegocios\\CapaNegocios.csproj|solutionrelative:capanegocios\\n_libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5F5722D-D8EE-4B0E-972D-568411D93E77}|CapaDatos\\CapaDatos.csproj|c:\\users\\luisf\\onedrive\\desktop\\trnet\\semana2\\r01p07semana2lffg\\proyecto3capas_biblioteca\\capadatos\\d_devolucion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5F5722D-D8EE-4B0E-972D-568411D93E77}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\d_devolucion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5F5722D-D8EE-4B0E-972D-568411D93E77}|CapaDatos\\CapaDatos.csproj|c:\\users\\luisf\\onedrive\\desktop\\trnet\\semana2\\r01p07semana2lffg\\proyecto3capas_biblioteca\\capadatos\\d_libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5F5722D-D8EE-4B0E-972D-568411D93E77}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\d_libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E089E5B-411D-44B8-BBC4-1F2D52480FA3}|CapaEntidades\\CapaEntidades.csproj|c:\\users\\luisf\\onedrive\\desktop\\trnet\\semana2\\r01p07semana2lffg\\proyecto3capas_biblioteca\\capaentidades\\e_devolucion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E089E5B-411D-44B8-BBC4-1F2D52480FA3}|CapaEntidades\\CapaEntidades.csproj|solutionrelative:capaentidades\\e_devolucion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E089E5B-411D-44B8-BBC4-1F2D52480FA3}|CapaEntidades\\CapaEntidades.csproj|c:\\users\\luisf\\onedrive\\desktop\\trnet\\semana2\\r01p07semana2lffg\\proyecto3capas_biblioteca\\capaentidades\\e_libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E089E5B-411D-44B8-BBC4-1F2D52480FA3}|CapaEntidades\\CapaEntidades.csproj|solutionrelative:capaentidades\\e_libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5F5722D-D8EE-4B0E-972D-568411D93E77}|CapaDatos\\CapaDatos.csproj|c:\\users\\luisf\\onedrive\\desktop\\trnet\\semana2\\r01p07semana2lffg\\proyecto3capas_biblioteca\\capadatos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5F5722D-D8EE-4B0E-972D-568411D93E77}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7C0875B-FFB1-47FB-87B5-F01728E00874}|CapaNegocios\\CapaNegocios.csproj|c:\\users\\luisf\\onedrive\\desktop\\trnet\\semana2\\r01p07semana2lffg\\proyecto3capas_biblioteca\\capanegocios\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7C0875B-FFB1-47FB-87B5-F01728E00874}|CapaNegocios\\CapaNegocios.csproj|solutionrelative:capanegocios\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E089E5B-411D-44B8-BBC4-1F2D52480FA3}|CapaEntidades\\CapaEntidades.csproj|c:\\users\\luisf\\onedrive\\desktop\\trnet\\semana2\\r01p07semana2lffg\\proyecto3capas_biblioteca\\capaentidades\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E089E5B-411D-44B8-BBC4-1F2D52480FA3}|CapaEntidades\\CapaEntidades.csproj|solutionrelative:capaentidades\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5F5722D-D8EE-4B0E-972D-568411D93E77}|CapaDatos\\CapaDatos.csproj|c:\\users\\luisf\\onedrive\\desktop\\trnet\\semana2\\r01p07semana2lffg\\proyecto3capas_biblioteca\\capadatos\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5F5722D-D8EE-4B0E-972D-568411D93E77}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\luisf\\OneDrive\\Desktop\\trNET\\SEMANA2\\R01P07Semana2LFFG\\Proyecto3Capas_Biblioteca\\BibliotecaWeb\\Default.aspx",
+              "RelativeDocumentMoniker": "BibliotecaWeb\\Default.aspx",
+              "ToolTip": "C:\\Users\\luisf\\OneDrive\\Desktop\\trNET\\SEMANA2\\R01P07Semana2LFFG\\Proyecto3Capas_Biblioteca\\BibliotecaWeb\\Default.aspx",
+              "RelativeToolTip": "BibliotecaWeb\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-01-17T03:06:21.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LibrosWeb.aspx",
+              "DocumentMoniker": "C:\\Users\\luisf\\OneDrive\\Desktop\\trNET\\SEMANA2\\R01P07Semana2LFFG\\Proyecto3Capas_Biblioteca\\BibliotecaWeb\\LibrosWeb.aspx",
+              "RelativeDocumentMoniker": "BibliotecaWeb\\LibrosWeb.aspx",
+              "ToolTip": "C:\\Users\\luisf\\OneDrive\\Desktop\\trNET\\SEMANA2\\R01P07Semana2LFFG\\Proyecto3Capas_Biblioteca\\BibliotecaWeb\\LibrosWeb.aspx",
+              "RelativeToolTip": "BibliotecaWeb\\LibrosWeb.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-01-17T03:04:50.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "N_Libro.cs",
+              "DocumentMoniker": "C:\\Users\\luisf\\OneDrive\\Desktop\\trNET\\SEMANA2\\R01P07Semana2LFFG\\Proyecto3Capas_Biblioteca\\CapaNegocios\\N_Libro.cs",
+              "RelativeDocumentMoniker": "CapaNegocios\\N_Libro.cs",
+              "ToolTip": "C:\\Users\\luisf\\OneDrive\\Desktop\\trNET\\SEMANA2\\R01P07Semana2LFFG\\Proyecto3Capas_Biblioteca\\CapaNegocios\\N_Libro.cs",
+              "RelativeToolTip": "CapaNegocios\\N_Libro.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAYwFUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T22:16:00.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "N_Socio.cs",
+              "DocumentMoniker": "C:\\Users\\luisf\\OneDrive\\Desktop\\trNET\\SEMANA2\\R01P07Semana2LFFG\\Proyecto3Capas_Biblioteca\\CapaNegocios\\N_Socio.cs",
+              "RelativeDocumentMoniker": "CapaNegocios\\N_Socio.cs",
+              "ToolTip": "C:\\Users\\luisf\\OneDrive\\Desktop\\trNET\\SEMANA2\\R01P07Semana2LFFG\\Proyecto3Capas_Biblioteca\\CapaNegocios\\N_Socio.cs",
+              "RelativeToolTip": "CapaNegocios\\N_Socio.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAswD8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T22:16:14.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "N_Prestamo.cs",
+              "DocumentMoniker": "C:\\Users\\luisf\\OneDrive\\Desktop\\trNET\\SEMANA2\\R01P07Semana2LFFG\\Proyecto3Capas_Biblioteca\\CapaNegocios\\N_Prestamo.cs",
+              "RelativeDocumentMoniker": "CapaNegocios\\N_Prestamo.cs",
+              "ToolTip": "C:\\Users\\luisf\\OneDrive\\Desktop\\trNET\\SEMANA2\\R01P07Semana2LFFG\\Proyecto3Capas_Biblioteca\\CapaNegocios\\N_Prestamo.cs",
+              "RelativeToolTip": "CapaNegocios\\N_Prestamo.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAgwE8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T22:16:30.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "N_Devolucion.cs",
+              "DocumentMoniker": "C:\\Users\\luisf\\OneDrive\\Desktop\\trNET\\SEMANA2\\R01P07Semana2LFFG\\Proyecto3Capas_Biblioteca\\CapaNegocios\\N_Devolucion.cs",
+              "RelativeDocumentMoniker": "CapaNegocios\\N_Devolucion.cs",
+              "ToolTip": "C:\\Users\\luisf\\OneDrive\\Desktop\\trNET\\SEMANA2\\R01P07Semana2LFFG\\Proyecto3Capas_Biblioteca\\CapaNegocios\\N_Devolucion.cs",
+              "RelativeToolTip": "CapaNegocios\\N_Devolucion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T22:16:47.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "D_Devolucion.cs",
+              "DocumentMoniker": "C:\\Users\\luisf\\OneDrive\\Desktop\\trNET\\SEMANA2\\R01P07Semana2LFFG\\Proyecto3Capas_Biblioteca\\CapaDatos\\D_Devolucion.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\D_Devolucion.cs",
+              "ToolTip": "C:\\Users\\luisf\\OneDrive\\Desktop\\trNET\\SEMANA2\\R01P07Semana2LFFG\\Proyecto3Capas_Biblioteca\\CapaDatos\\D_Devolucion.cs",
+              "RelativeToolTip": "CapaDatos\\D_Devolucion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T22:14:25.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "D_Libro.cs",
+              "DocumentMoniker": "C:\\Users\\luisf\\OneDrive\\Desktop\\trNET\\SEMANA2\\R01P07Semana2LFFG\\Proyecto3Capas_Biblioteca\\CapaDatos\\D_Libro.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\D_Libro.cs",
+              "ToolTip": "C:\\Users\\luisf\\OneDrive\\Desktop\\trNET\\SEMANA2\\R01P07Semana2LFFG\\Proyecto3Capas_Biblioteca\\CapaDatos\\D_Libro.cs",
+              "RelativeToolTip": "CapaDatos\\D_Libro.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABsAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T22:13:22.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "E_Prestamo.cs",
+              "DocumentMoniker": "C:\\Users\\luisf\\OneDrive\\Desktop\\trNET\\SEMANA2\\R01P07Semana2LFFG\\Proyecto3Capas_Biblioteca\\CapaEntidades\\E_Prestamo.cs",
+              "RelativeDocumentMoniker": "CapaEntidades\\E_Prestamo.cs",
+              "ToolTip": "C:\\Users\\luisf\\OneDrive\\Desktop\\trNET\\SEMANA2\\R01P07Semana2LFFG\\Proyecto3Capas_Biblioteca\\CapaEntidades\\E_Prestamo.cs",
+              "RelativeToolTip": "CapaEntidades\\E_Prestamo.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T22:15:26.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "D_Prestamo.cs",
+              "DocumentMoniker": "C:\\Users\\luisf\\OneDrive\\Desktop\\trNET\\SEMANA2\\R01P07Semana2LFFG\\Proyecto3Capas_Biblioteca\\CapaDatos\\D_Prestamo.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\D_Prestamo.cs",
+              "ToolTip": "C:\\Users\\luisf\\OneDrive\\Desktop\\trNET\\SEMANA2\\R01P07Semana2LFFG\\Proyecto3Capas_Biblioteca\\CapaDatos\\D_Prestamo.cs",
+              "RelativeToolTip": "CapaDatos\\D_Prestamo.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACYAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T22:14:02.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "D_Socio.cs",
+              "DocumentMoniker": "C:\\Users\\luisf\\OneDrive\\Desktop\\trNET\\SEMANA2\\R01P07Semana2LFFG\\Proyecto3Capas_Biblioteca\\CapaDatos\\D_Socio.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\D_Socio.cs",
+              "ToolTip": "C:\\Users\\luisf\\OneDrive\\Desktop\\trNET\\SEMANA2\\R01P07Semana2LFFG\\Proyecto3Capas_Biblioteca\\CapaDatos\\D_Socio.cs",
+              "RelativeToolTip": "CapaDatos\\D_Socio.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T22:13:41.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "E_Socio.cs",
+              "DocumentMoniker": "C:\\Users\\luisf\\OneDrive\\Desktop\\trNET\\SEMANA2\\R01P07Semana2LFFG\\Proyecto3Capas_Biblioteca\\CapaEntidades\\E_Socio.cs",
+              "RelativeDocumentMoniker": "CapaEntidades\\E_Socio.cs",
+              "ToolTip": "C:\\Users\\luisf\\OneDrive\\Desktop\\trNET\\SEMANA2\\R01P07Semana2LFFG\\Proyecto3Capas_Biblioteca\\CapaEntidades\\E_Socio.cs",
+              "RelativeToolTip": "CapaEntidades\\E_Socio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T22:15:05.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "E_Devolucion.cs",
+              "DocumentMoniker": "C:\\Users\\luisf\\OneDrive\\Desktop\\trNET\\SEMANA2\\R01P07Semana2LFFG\\Proyecto3Capas_Biblioteca\\CapaEntidades\\E_Devolucion.cs",
+              "RelativeDocumentMoniker": "CapaEntidades\\E_Devolucion.cs",
+              "ToolTip": "C:\\Users\\luisf\\OneDrive\\Desktop\\trNET\\SEMANA2\\R01P07Semana2LFFG\\Proyecto3Capas_Biblioteca\\CapaEntidades\\E_Devolucion.cs",
+              "RelativeToolTip": "CapaEntidades\\E_Devolucion.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T22:30:01.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "E_Libro.cs",
+              "DocumentMoniker": "C:\\Users\\luisf\\OneDrive\\Desktop\\trNET\\SEMANA2\\R01P07Semana2LFFG\\Proyecto3Capas_Biblioteca\\CapaEntidades\\E_Libro.cs",
+              "RelativeDocumentMoniker": "CapaEntidades\\E_Libro.cs",
+              "ToolTip": "C:\\Users\\luisf\\OneDrive\\Desktop\\trNET\\SEMANA2\\R01P07Semana2LFFG\\Proyecto3Capas_Biblioteca\\CapaEntidades\\E_Libro.cs",
+              "RelativeToolTip": "CapaEntidades\\E_Libro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T22:14:49.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\luisf\\OneDrive\\Desktop\\trNET\\SEMANA2\\R01P07Semana2LFFG\\Proyecto3Capas_Biblioteca\\CapaDatos\\Conexion.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\Conexion.cs",
+              "ToolTip": "C:\\Users\\luisf\\OneDrive\\Desktop\\trNET\\SEMANA2\\R01P07Semana2LFFG\\Proyecto3Capas_Biblioteca\\CapaDatos\\Conexion.cs",
+              "RelativeToolTip": "CapaDatos\\Conexion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T22:11:03.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\luisf\\OneDrive\\Desktop\\trNET\\SEMANA2\\R01P07Semana2LFFG\\Proyecto3Capas_Biblioteca\\CapaNegocios\\Class1.cs",
+              "RelativeDocumentMoniker": "CapaNegocios\\Class1.cs",
+              "ToolTip": "C:\\Users\\luisf\\OneDrive\\Desktop\\trNET\\SEMANA2\\R01P07Semana2LFFG\\Proyecto3Capas_Biblioteca\\CapaNegocios\\Class1.cs",
+              "RelativeToolTip": "CapaNegocios\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T14:23:06.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\luisf\\OneDrive\\Desktop\\trNET\\SEMANA2\\R01P07Semana2LFFG\\Proyecto3Capas_Biblioteca\\CapaEntidades\\Class1.cs",
+              "RelativeDocumentMoniker": "CapaEntidades\\Class1.cs",
+              "ToolTip": "C:\\Users\\luisf\\OneDrive\\Desktop\\trNET\\SEMANA2\\R01P07Semana2LFFG\\Proyecto3Capas_Biblioteca\\CapaEntidades\\Class1.cs",
+              "RelativeToolTip": "CapaEntidades\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T14:22:31.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\luisf\\OneDrive\\Desktop\\trNET\\SEMANA2\\R01P07Semana2LFFG\\Proyecto3Capas_Biblioteca\\CapaDatos\\Class1.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\Class1.cs",
+              "ToolTip": "C:\\Users\\luisf\\OneDrive\\Desktop\\trNET\\SEMANA2\\R01P07Semana2LFFG\\Proyecto3Capas_Biblioteca\\CapaDatos\\Class1.cs",
+              "RelativeToolTip": "CapaDatos\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T14:21:59.406Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

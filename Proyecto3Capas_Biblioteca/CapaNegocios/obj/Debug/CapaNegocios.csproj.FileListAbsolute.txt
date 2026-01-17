@@ -1,0 +1,11 @@
+C:\Users\luisf\OneDrive\Desktop\trNET\SEMANA2\R01P07Semana2LFFG\Proyecto3Capas_Biblioteca\CapaNegocios\bin\Debug\CapaNegocios.dll
+C:\Users\luisf\OneDrive\Desktop\trNET\SEMANA2\R01P07Semana2LFFG\Proyecto3Capas_Biblioteca\CapaNegocios\bin\Debug\CapaNegocios.pdb
+C:\Users\luisf\OneDrive\Desktop\trNET\SEMANA2\R01P07Semana2LFFG\Proyecto3Capas_Biblioteca\CapaNegocios\obj\Debug\CapaNegocios.csproj.AssemblyReference.cache
+C:\Users\luisf\OneDrive\Desktop\trNET\SEMANA2\R01P07Semana2LFFG\Proyecto3Capas_Biblioteca\CapaNegocios\obj\Debug\CapaNegocios.csproj.CoreCompileInputs.cache
+C:\Users\luisf\OneDrive\Desktop\trNET\SEMANA2\R01P07Semana2LFFG\Proyecto3Capas_Biblioteca\CapaNegocios\obj\Debug\CapaNegocios.dll
+C:\Users\luisf\OneDrive\Desktop\trNET\SEMANA2\R01P07Semana2LFFG\Proyecto3Capas_Biblioteca\CapaNegocios\obj\Debug\CapaNegocios.pdb
+C:\Users\luisf\OneDrive\Desktop\trNET\SEMANA2\R01P07Semana2LFFG\Proyecto3Capas_Biblioteca\CapaNegocios\bin\Debug\CapaDatos.dll
+C:\Users\luisf\OneDrive\Desktop\trNET\SEMANA2\R01P07Semana2LFFG\Proyecto3Capas_Biblioteca\CapaNegocios\bin\Debug\CapaEntidades.dll
+C:\Users\luisf\OneDrive\Desktop\trNET\SEMANA2\R01P07Semana2LFFG\Proyecto3Capas_Biblioteca\CapaNegocios\bin\Debug\CapaDatos.pdb
+C:\Users\luisf\OneDrive\Desktop\trNET\SEMANA2\R01P07Semana2LFFG\Proyecto3Capas_Biblioteca\CapaNegocios\bin\Debug\CapaEntidades.pdb
+C:\Users\luisf\OneDrive\Desktop\trNET\SEMANA2\R01P07Semana2LFFG\Proyecto3Capas_Biblioteca\CapaNegocios\obj\Debug\CapaNego.1D246B3C.Up2Date
