@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\luisf\\OneDrive\\Desktop\\trNET\\SEMANA2\\MVC_Camiones\\CamionesWebMVC_v01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC5C94EE-56E9-4F96-BAAC-06E9CF2AEA7D}|CamionesWebMVC_v01\\CamionesWebMVC_v01.csproj|c:\\users\\luisf\\onedrive\\desktop\\trnet\\semana2\\mvc_camiones\\camioneswebmvc_v01\\camioneswebmvc_v01\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AC5C94EE-56E9-4F96-BAAC-06E9CF2AEA7D}|CamionesWebMVC_v01\\CamionesWebMVC_v01.csproj|solutionrelative:camioneswebmvc_v01\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\luisf\\OneDrive\\Desktop\\trNET\\SEMANA2\\MVC_Camiones\\CamionesWebMVC_v01\\CamionesWebMVC_v01\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "CamionesWebMVC_v01\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\luisf\\OneDrive\\Desktop\\trNET\\SEMANA2\\MVC_Camiones\\CamionesWebMVC_v01\\CamionesWebMVC_v01\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "CamionesWebMVC_v01\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-19T20:23:51.691Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

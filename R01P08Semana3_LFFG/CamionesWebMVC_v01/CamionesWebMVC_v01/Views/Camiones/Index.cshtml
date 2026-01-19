@@ -1,0 +1,139 @@
+﻿@model IEnumerable<CamionesWebMVC_v01.Models.Camione>
+
+@{
+    ViewBag.Title = "CAMIONES";
+}
+
+
+<style>
+    body {
+        background-color: #472036c5;
+    }
+
+
+
+    section.col-md-4 {
+        background-color: ghostwhite;
+    }
+
+    .btn-agregar {
+        background-color: limegreen;
+        color: white;
+        border: none;
+        padding: 12px 30px;
+        font-size: 16px;
+        font-weight: bold;
+        border-radius: 30px;
+        cursor: pointer;
+        transition: all 0.3s ease;
+        box-shadow: 0 8px 15px rgba(0, 0, 0, 0.2);
+    }
+
+        .btn-agregar:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 12px 20px rgba(0, 0, 0, 0.3);
+        }
+
+        .btn-agregar:active {
+            transform: scale(0.98);
+        }
+
+
+    .btn-agregar2 {
+        background-color: violet;
+        color: white;
+        border: none;
+        padding: 12px 30px;
+        font-size: 16px;
+        font-weight: bold;
+        border-radius: 30px;
+        cursor: pointer;
+        transition: all 0.3s ease;
+        box-shadow: 0 8px 15px rgba(0, 0, 0, 0.2);
+    }
+
+        .btn-agregar2:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 12px 20px rgba(0, 0, 0, 0.3);
+        }
+
+        .btn-agregar2:active {
+            transform: scale(0.98);
+        }
+</style>
+
+<h2>CAMIONES</h2>
+
+<p class="btn btn-agregar">
+    @Html.ActionLink("Crear nuevo registro", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Matricula)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.TipoCamion)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Modelo)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Marca)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Capacidad)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Kilometraje)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Disponibilidad)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.UrlFoto)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.FechaRegistro)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Matricula)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.TipoCamion)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Modelo)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Marca)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Capacidad)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Kilometraje)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Disponibilidad)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.UrlFoto)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.FechaRegistro)
+        </td>
+        <td class="btn btn-agregar">
+            @Html.ActionLink("EDITAR", "Edit", new { id=item.IdCamion }) |
+            @Html.ActionLink("DETALLES", "Details", new { id=item.IdCamion }) |
+            @Html.ActionLink("BORRAR", "Delete", new { id=item.IdCamion })
+        </td>
+    </tr>
+}
+
+</table>
